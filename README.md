@@ -1,5 +1,4 @@
 # EverBlade
-<img href="https://github.com/JakubM1999/EverBlade/blob/main/Everbalde%20cover.png?raw=true">
 ## LINKS
 
 **My Experience with Unity and C#** <br>
