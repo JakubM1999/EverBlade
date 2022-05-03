@@ -1,7 +1,7 @@
 # EverBlade
 ## LINKS
 
-My Experience with Unity and C#
+**My Experience with Unity and C#
 https://youtu.be/lEC5SsMyofo
 
 Figma UX/UI and Research plan
